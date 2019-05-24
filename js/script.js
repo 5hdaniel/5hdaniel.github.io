@@ -100,7 +100,9 @@ function CheckScripts() {
   $(document).ready(function(){
     preloaderCheck();
     Typewriting();
+    // TypewritingProj();
     sidebarhero();
+
   });
 
 }
@@ -168,7 +170,7 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["show case ", "projects "],
+            strings: ["WELCOME"],
             typeSpeed: 100,
             backDelay: 500,
             loop: false,
@@ -180,6 +182,31 @@ $(document).ready(function(){
 	}, 3000);
 });
 }
+    //
+    // /*-------------------------------------------
+    // Typewriting init script
+    // ---------------------------------------------*/
+    //
+    // function TypewritingProj() {
+    //
+    //
+    //     $(document).ready(function(){
+    //         setTimeout( function(){
+    //             if($("#site-type").length) {
+    //                 $(".typewrite span").typed({
+    //                     strings: ["PROJECTS"],
+    //                     typeSpeed: 100,
+    //                     backDelay: 500,
+    //                     loop: false,
+    //                     contentType: 'html', // or text
+    //                     // defaults to false for infinite loop
+    //                     loopCount: false,
+    //                 });
+    //             }
+    //         }, 3000);
+    //     });
+    // }
+
 
 
 /*-------------------------------------------
