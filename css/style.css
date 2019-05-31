@@ -122,27 +122,32 @@ NAVIGATION OPACITY
 }
 
 ul.menu-fullscreen{
-  width: 100%;
+  width: 50%;
+  position: fixed;
   top: 50%;
-  position: absolute;
+  left: 43%;
   height: 280px;
   margin-top: -140px;
+  ;
 }
 
 ul.menu-fullscreen li{
-  font-size:35px;
-  text-align:center;
-  line-height:70px;
-  font-weight:500;
+  font-size:37px;
+  text-align:left;
+  line-height:60px;
+  font-weight:600;
+
+
 }
 
 ul.menu-fullscreen li > a{
   color:#999999;
   border:0;
+
 }
 
 ul.menu-fullscreen li > a:hover{
-  color:#ffffff;
+  color:#AB20FD;
 }
 
 
