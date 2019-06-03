@@ -289,6 +289,8 @@
   
   .menu-index{
     display:block !important;
+    font-size : 20px;
+
   }
 
   .prev-next{
@@ -349,5 +351,7 @@
   .grid-hover, li.grid-item, li.grid-item img{
     width:280px;
   }
+
+
 
 }

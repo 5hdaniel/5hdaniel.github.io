@@ -100,6 +100,7 @@ $(function () {
         $(document).ready(function () {
             preloaderCheck();
             Typewriting();
+            showGrid();
             sidebarhero();
 
         });
@@ -164,31 +165,35 @@ $(function () {
 
     function Typewriting() {
 
-
         $(document).ready(function () {
             setTimeout(function () {
                     if ($("#site-type").length) {
                         $(".typewrite span").typed({
                             strings: ['Hi, welcome to my website. <br>' +
-                            'Below you will find a showcase of my work projects and hobbies. <br>' +
+                            'Below you will find a showcase of my work including projects and hobbies. <br>' +
                             'You can also view the projects sorted by topic using the menu. <br>' +
-                            'I hope you enjoy <span style=\'font-size:50px;\'>&#128579;</span>'],
+                            'I hope you enjoy (-; '],
+                            //<span style='font-size:50px;'>&#128579;</span>
                             typeSpeed: 15,
                             backDelay: 500,
                             loop: false,
                             contentType: 'html', // or text
                             // defaults to false for infinite loop
-                            loopCount: false,
-                            oncomplete: function (self) {
-                                self.showCursor = false
-                            },
-
+                            loopCount: false
                         });
                     }
 
                 },
-                3000);
+                2500
+                //todo: show the grid after the type is complete
+                // function callback() {
+                //     document.getElementById('typeWriteDelay').style.visibility = "visible";
+                // }
+
+            );
         });
+
+
     }
 
     //
@@ -276,7 +281,18 @@ $(function () {
         $(".preloader").delay(2000).fadeOut("slow");
     }
 
+    /*-------------------------------------------
+    Delay the appearance of the content by constant time
+    ---------------------------------------------*/
 
+    function showGrid() {
 
+        $(document).ready(function () {
+            setTimeout(function () {document.getElementById('fullscreen').style.visibility = "visible";},12850)
+            setTimeout(function () {document.getElementById('full').style.visibility = "visible";},12850)
+            setTimeout(function () {document.getElementById('button').style.visibility = "visible";},12850)
+            setTimeout(function () {document.getElementById('typeWriteDelay').style.visibility = "visible";},12850)
+        })
+    }
 
 })//End

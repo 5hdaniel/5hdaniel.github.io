@@ -33,7 +33,7 @@ a{
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
 	transition: all 0.2s ease-in; 
-	border-bottom:1px solid #dedede;
+	/*border-bottom:1px solid #dedede;*/
 }
 
 a:focus {
@@ -128,7 +128,7 @@ ul.menu-fullscreen{
   left: 43%;
   height: 280px;
   margin-top: -140px;
-  ;
+
 }
 
 ul.menu-fullscreen li{
@@ -157,6 +157,7 @@ ul.menu-fullscreen li > a:hover{
   top:0;
   margin:0 auto;
   z-index: 9997;
+
 }
 
 
@@ -222,7 +223,7 @@ ul.social-icon a:hover{
 .menu-index{
   position: fixed;
   right: 5%;
-  top: 30px;
+  top: 40px;
   z-index: 99999;
   padding:20px;
   background:black;
@@ -272,12 +273,13 @@ ul.header-nav{
 }
 
 header .logo > a{
-  font-size:23px;
+  font-size:43px;
   font-weight:800;
   float:left;
   line-height:80px;
-  padding-right:40px;
-  border-bottom: 1px solid #f1f1f1;
+  padding-right:-40px;
+
+  /*border-bottom: 1px solid #f1f1f1;*/
 }
 
 header .logo > a:hover{
@@ -382,10 +384,10 @@ CONTENT
 
 .content .text-intro h1{
   font-size:43px;
-  width:40%;
+  width:50%;
   text-transform:uppercase;
   color:#000000;
-  font-weight:900;
+  font-weight:800;
   line-height:70px;
 }
 
@@ -396,7 +398,7 @@ CONTENT
   font-weight:400;
   line-height:22px;
   letter-spacing:1px;
-  width:40%;
+  width:50%;
 }
 
         .typed-cursor{
@@ -480,7 +482,7 @@ PORTFOLIO GRID
 }
 
 .prev-next a:hover{
-  border-bottom:1px solid black;
+  /*border-bottom:1px solid black;*/
 }
 
 .prev-button{
@@ -505,6 +507,8 @@ PORTFOLIO GRID
   position:relative;
   margin: 30px auto;
   overflow:hidden;
+
+
 }
 
 #portfolio-sidebar{
@@ -518,6 +522,8 @@ li.grid-item{
   position:relative;
   float:left;
   padding:15px;
+
+
 }
 
 .grid-hover{
