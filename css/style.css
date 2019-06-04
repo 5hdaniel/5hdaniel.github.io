@@ -222,8 +222,8 @@ ul.social-icon a:hover{
 
 .menu-index{
   position: fixed;
-  right: 5%;
-  top: 40px;
+  right: 10%;
+  top: 20px;
   z-index: 99999;
   padding:20px;
   background:black;
