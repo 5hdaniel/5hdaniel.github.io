@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07b9257-d3f5-4123-9ef5-bd8d62b7a203" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/danielHaimResume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HMH.html" beforeDir="false" afterPath="$PROJECT_DIR$/HMH.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/unusedPages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designProj.html" beforeDir="false" afterPath="$PROJECT_DIR$/designProj.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designProj/24HrDesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/designProj/24HrDesign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designProj/HackMentalHealth.html" beforeDir="false" afterPath="$PROJECT_DIR$/designProj/HackMentalHealth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designProj/PurpelAsparagus.html" beforeDir="false" afterPath="$PROJECT_DIR$/designProj/PurpelAsparagus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designProj/RoadTripForDementia.html" beforeDir="false" afterPath="$PROJECT_DIR$/designProj/RoadTripForDementia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/techProj.html" beforeDir="false" afterPath="$PROJECT_DIR$/techProj.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technicalProjects/CastleCrusher.html" beforeDir="false" afterPath="$PROJECT_DIR$/technicalProjects/CastleCrusher.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technicalProjects/VoiceCar.html" beforeDir="false" afterPath="$PROJECT_DIR$/technicalProjects/VoiceCar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unusedPages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unusedPages/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/unusedPages/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unusedPages/index-fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/unusedPages/index-fixed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unusedPages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/unusedPages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unusedPages/single-fullscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/unusedPages/single-fullscreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,8 +67,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="80" column="148" selection-start-line="80" selection-start-column="148" selection-end-line="80" selection-end-column="148" />
+            <state relative-caret-position="215">
+              <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -335,7 +317,7 @@
       <workItem from="1559326823643" duration="17172000" />
       <workItem from="1559417089953" duration="9040000" />
       <workItem from="1559628974910" duration="7989000" />
-      <workItem from="1559669708075" duration="4733000" />
+      <workItem from="1559669708075" duration="5006000" />
     </task>
     <task id="LOCAL-00001" summary="added two demo videos for castle Crusher">
       <created>1559670338174</created>
@@ -358,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559673451617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added a resume to the contact page">
+      <created>1559675345840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559675345840</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38934000" />
+    <option name="totallyTimeSpent" value="39207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -388,8 +377,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Style Checker" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32903227" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20721272" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32903227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20721272" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -443,7 +432,8 @@
     <MESSAGE value="added two demo videos for castle Crusher" />
     <MESSAGE value="Updated the favicon" />
     <MESSAGE value="syntax alignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="syntax alignment" />
+    <MESSAGE value="added a resume to the contact page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a resume to the contact page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BYOW.html">
@@ -817,8 +807,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="80" column="148" selection-start-line="80" selection-start-column="148" selection-end-line="80" selection-end-column="148" />
+        <state relative-caret-position="215">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
         </state>
       </provider>
     </entry>
