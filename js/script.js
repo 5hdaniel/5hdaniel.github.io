@@ -172,7 +172,7 @@ $(function () {
                             strings: ['Hi, welcome to my website. <br>' +
                             'Below you will find a showcase of my work including projects and hobbies. <br>' +
                             'You can click on the pictures or view the projects sorted by topic using the menu. <br>' +
-                            'I hope you enjoy (-; '],
+                            'I hope you enjoy (-; <br> <br>*If you are having issues viewing this website please use Google Chrome'],
                             //<span style='font-size:50px;'>&#128579;</span>
                             typeSpeed: 15,
                             backDelay: 500,
@@ -288,12 +288,12 @@ $(function () {
     function showGrid() {
 
         $(document).ready(function () {
-            setTimeout(function () {document.getElementById('fullscreen').style.visibility = "visible";},12850)
-            setTimeout(function () {document.getElementById('full').style.visibility = "visible";},12850)
-            setTimeout(function () {document.getElementById('button').style.visibility = "visible";},12850)
-            setTimeout(function () {document.getElementById('close-button').style.visibility = "visible";},12850)
-            setTimeout(function () {document.getElementById('buttons').style.visibility = "visible";},12850)
-            setTimeout(function () {document.getElementById('typeWriteDelay').style.visibility = "visible";},12850)
+            setTimeout(function () {document.getElementById('fullscreen').style.visibility = "visible";},13250)
+            setTimeout(function () {document.getElementById('full').style.visibility = "visible";},13250)
+            setTimeout(function () {document.getElementById('button').style.visibility = "visible";},13250)
+            setTimeout(function () {document.getElementById('close-button').style.visibility = "visible";},13250)
+            setTimeout(function () {document.getElementById('buttons').style.visibility = "visible";},13250)
+            setTimeout(function () {document.getElementById('typeWriteDelay').style.visibility = "visible";},13250)
         })
     }
 

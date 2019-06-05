@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07b9257-d3f5-4123-9ef5-bd8d62b7a203" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackMentalHealth.html" beforeDir="false" afterPath="$PROJECT_DIR$/HackMentalHealth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+            <state relative-caret-position="-2816">
+              <caret line="41" column="66" lean-forward="true" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -40,82 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="578" column="1" lean-forward="true" selection-start-line="578" selection-start-column="1" selection-end-line="578" selection-end-column="1" />
-              <folding>
-                <element signature="e#102#241#0" />
-                <element signature="e#255#315#0" />
-                <element signature="e#336#396#0" />
-                <element signature="e#399#478#0" />
-                <element signature="e#481#723#0" />
-                <element signature="e#733#752#0" />
-                <element signature="e#760#783#0" />
-                <element signature="e#785#854#0" />
-                <element signature="e#866#960#0" />
-                <element signature="e#979#1096#0" />
-                <element signature="e#1108#1319#0" />
-                <element signature="e#1321#1455#0" />
-                <element signature="e#1397#1453#0" />
-                <element signature="e#1457#1643#0" />
-                <element signature="e#1484#1552#0" />
-                <element signature="e#1558#1641#0" />
-                <element signature="e#1649#1727#0" />
-                <element signature="e#1743#1865#0" />
-                <element signature="e#1885#1986#0" />
-                <element signature="e#2009#2090#0" />
-                <element signature="e#2117#2150#0" />
-                <element signature="e#2183#2203#0" />
-                <element signature="e#2211#2296#0" />
-                <element signature="e#2310#2422#0" />
-                <element signature="e#2424#2490#0" />
-                <element signature="e#2504#2845#0" />
-                <element signature="e#2874#2910#0" />
-                <element signature="e#2944#2977#0" />
-                <element signature="e#2994#3012#0" />
-                <element signature="e#3030#3132#0" />
-                <element signature="e#3156#3176#0" />
-                <element signature="e#3189#3310#0" />
-                <element signature="e#3326#3409#0" />
-                <element signature="e#3430#3450#0" />
-                <element signature="e#3465#3483#0" />
-                <element signature="e#3499#3582#0" />
-                <element signature="e#3598#3637#0" />
-                <element signature="e#3659#3679#0" />
-                <element signature="e#3689#3709#0" />
-                <element signature="e#3724#3754#0" />
-                <element signature="e#3965#4050#0" />
-                <element signature="e#4065#4230#0" />
-                <element signature="e#4251#4271#0" />
-                <element signature="e#4294#4314#0" />
-                <element signature="e#4328#4399#0" />
-                <element signature="e#4418#4478#0" />
-                <element signature="e#4498#4565#0" />
-                <element signature="e#4569#4636#0" />
-                <element signature="e#4649#4898#0" />
-                <element signature="e#4911#4962#0" />
-                <element signature="e#4975#5026#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CastleCrusher.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CastleCrusher.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+            <state relative-caret-position="279">
+              <caret line="117" selection-start-line="117" selection-end-line="122" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HackMentalHealth.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HackMentalHealth.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HackMentalHealth.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="114" column="44" selection-start-line="114" selection-start-column="44" selection-end-line="114" selection-end-column="44" />
+            <state relative-caret-position="304">
+              <caret line="134" selection-start-line="134" selection-start-column="4" selection-end-line="139" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -123,8 +60,26 @@
       <file leaf-file-name="PurpelAsparagus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PurpelAsparagus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="50" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="50" />
+            <state relative-caret-position="402">
+              <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="24HrDesign.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24HrDesign.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="101" selection-start-line="101" selection-end-line="106" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="286" column="56" lean-forward="true" selection-start-line="286" selection-start-column="56" selection-end-line="286" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -132,7 +87,7 @@
       <file leaf-file-name="designProj.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/designProj.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
+            <state relative-caret-position="-1641">
               <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
             </state>
           </provider>
@@ -141,22 +96,10 @@
       <file leaf-file-name="RoadTripForDementia.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RoadTripForDementia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="48" column="34" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="34" />
+            <state relative-caret-position="197">
+              <caret line="116" column="8" selection-start-line="116" selection-start-column="12" selection-end-line="121" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="techProj.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/techProj.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,8 +108,8 @@
       <file leaf-file-name="VoiceCar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VoiceCar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="48" column="31" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="31" />
+            <state relative-caret-position="319">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
             </state>
           </provider>
         </entry>
@@ -200,10 +143,10 @@
       <find>clos</find>
       <find>hidd</find>
       <find>href</find>
-      <find>unu</find>
-      <find>unus</find>
       <find>copy</find>
       <find>soci</find>
+      <find>unus</find>
+      <find>unu</find>
       <find>unused</find>
     </findStrings>
   </component>
@@ -217,7 +160,6 @@
         <option value="$PROJECT_DIR$/technicalProjects/InteractiveGameDesign.html" />
         <option value="$PROJECT_DIR$/js/typed.js" />
         <option value="$PROJECT_DIR$/css/style-responsive.css" />
-        <option value="$PROJECT_DIR$/VoiceCar.html" />
         <option value="$PROJECT_DIR$/BYOW.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/unusedPages/about.html" />
@@ -229,19 +171,22 @@
         <option value="$PROJECT_DIR$/designProj/HackMentalHealth.html" />
         <option value="$PROJECT_DIR$/single.html" />
         <option value="$PROJECT_DIR$/designProj/PurpelAsparagus.html" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/index-fixed.html" />
         <option value="$PROJECT_DIR$/unusedPages/index-fixed.html" />
         <option value="$PROJECT_DIR$/designProj/24HrDesign.html" />
         <option value="$PROJECT_DIR$/technicalProjects/CastleCrusher.html" />
-        <option value="$PROJECT_DIR$/CastleCrusher.html" />
-        <option value="$PROJECT_DIR$/RoadTripForDementia.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/techProj.html" />
         <option value="$PROJECT_DIR$/designProj.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/HackMentalHealth.html" />
+        <option value="$PROJECT_DIR$/PurpelAsparagus.html" />
+        <option value="$PROJECT_DIR$/RoadTripForDementia.html" />
+        <option value="$PROJECT_DIR$/VoiceCar.html" />
+        <option value="$PROJECT_DIR$/CastleCrusher.html" />
+        <option value="$PROJECT_DIR$/24HrDesign.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -284,6 +229,11 @@
               <item name="5hdaniel.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="5hdaniel.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5hdaniel.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5hdaniel.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="5hdaniel.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -386,7 +336,7 @@
       <workItem from="1559417089953" duration="9040000" />
       <workItem from="1559628974910" duration="7989000" />
       <workItem from="1559669708075" duration="12147000" />
-      <workItem from="1559686131872" duration="19981000" />
+      <workItem from="1559686131872" duration="20869000" />
     </task>
     <task id="LOCAL-00001" summary="added two demo videos for castle Crusher">
       <created>1559670338174</created>
@@ -469,7 +419,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66329000" />
+    <option name="totallyTimeSpent" value="67217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -751,20 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5hdaniel.github.io.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="285" column="51" lean-forward="true" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/IMG_5579.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -810,70 +746,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24HrDesign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/24hrDesign.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PurpelAsparagus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" column="50" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RoadTripForDementia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CastleCrusher.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VoiceCar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="48" column="31" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/techProj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designProj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="105" column="25" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -935,10 +809,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/techProj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5hdaniel.github.io.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="105" column="25" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designProj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1641">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VoiceCar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RoadTripForDementia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="116" column="8" selection-start-line="116" selection-start-column="12" selection-end-line="121" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PurpelAsparagus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackMentalHealth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="134" selection-start-line="134" selection-start-column="4" selection-end-line="139" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CastleCrusher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="117" selection-start-line="117" selection-end-line="122" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24HrDesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="101" selection-start-line="101" selection-end-line="106" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="286" column="56" lean-forward="true" selection-start-line="286" selection-start-column="56" selection-end-line="286" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        <state relative-caret-position="-2816">
+          <caret line="41" column="66" lean-forward="true" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -946,13 +903,6 @@
             <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackMentalHealth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="114" column="44" selection-start-line="114" selection-start-column="44" selection-end-line="114" selection-end-column="44" />
         </state>
       </provider>
     </entry>
