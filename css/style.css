@@ -559,6 +559,10 @@ li.grid-item{
   line-height:50px;
 }
 
+#hintOfFung {
+  text-transform: none;
+}
+
 .grid-hover p{
   font-size:13px;
   bottom:40px;
