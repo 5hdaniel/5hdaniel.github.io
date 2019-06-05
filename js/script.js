@@ -171,7 +171,7 @@ $(function () {
                         $(".typewrite span").typed({
                             strings: ['Hi, welcome to my website. <br>' +
                             'Below you will find a showcase of my work including projects and hobbies. <br>' +
-                            'You can also view the projects sorted by topic using the menu. <br>' +
+                            'You can click on the pictures or view the projects sorted by topic using the menu. <br>' +
                             'I hope you enjoy (-; '],
                             //<span style='font-size:50px;'>&#128579;</span>
                             typeSpeed: 15,
@@ -185,7 +185,7 @@ $(function () {
 
                 },
                 2500
-                //todo: show the grid after the type is complete
+
                 // function callback() {
                 //     document.getElementById('typeWriteDelay').style.visibility = "visible";
                 // }
@@ -291,6 +291,8 @@ $(function () {
             setTimeout(function () {document.getElementById('fullscreen').style.visibility = "visible";},12850)
             setTimeout(function () {document.getElementById('full').style.visibility = "visible";},12850)
             setTimeout(function () {document.getElementById('button').style.visibility = "visible";},12850)
+            setTimeout(function () {document.getElementById('close-button').style.visibility = "visible";},12850)
+            setTimeout(function () {document.getElementById('buttons').style.visibility = "visible";},12850)
             setTimeout(function () {document.getElementById('typeWriteDelay').style.visibility = "visible";},12850)
         })
     }
