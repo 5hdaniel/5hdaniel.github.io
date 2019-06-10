@@ -172,7 +172,7 @@ $(function () {
                             strings: ['Hi, welcome to my website. <br>' +
                             'Below you will find a showcase of my work including projects and hobbies. <br>' +
                             'You can click on the pictures or view the projects sorted by topic using the menu. <br>' +
-                            'I hope you enjoy (-; <br> <br>For best viewing experience please use Google Chrome.'],
+                            'I hope you enjoy (-; <br> <br>For best viewing experience please use a desktop version of Google Chrome.'],
                             //<span style='font-size:50px;'>&#128579;</span>
                             typeSpeed: 15,
                             backDelay: 500,
