@@ -142,7 +142,11 @@
     padding-right: 15px;
     padding-left: 15px;
   }
- 
+
+  ul.menu-fullscreen li{
+    font-size: 36px;
+    line-height: 43px;
+  }
 
 
   /*
@@ -202,6 +206,12 @@
   .home-sidebar{
     display:none;
   }
+
+  ul.menu-fullscreen li{
+    font-size: 20px;
+    line-height: 24px;
+  }
+
   
   ul.header-nav{
     width:50%;
@@ -291,7 +301,11 @@
   .menu-index{
     display:block !important;
     font-size : 20px;
+  }
 
+  ul.menu-fullscreen li{
+    font-size: 20px;
+    line-height: 24px;
   }
 
   .prev-next{
@@ -347,6 +361,7 @@
 
   .portfolio-grid{
     width:310px;
+    font-size: 20px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
