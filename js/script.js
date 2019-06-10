@@ -288,12 +288,12 @@ $(function () {
     function showGrid() {
 
         $(document).ready(function () {
-            setTimeout(function () {document.getElementById('fullscreen').style.visibility = "visible";},13250)
-            setTimeout(function () {document.getElementById('full').style.visibility = "visible";},13250)
-            setTimeout(function () {document.getElementById('button').style.visibility = "visible";},13250)
-            setTimeout(function () {document.getElementById('close-button').style.visibility = "visible";},13250)
-            setTimeout(function () {document.getElementById('buttons').style.visibility = "visible";},13250)
-            setTimeout(function () {document.getElementById('typeWriteDelay').style.visibility = "visible";},13250)
+            setTimeout(function () {document.getElementById('fullscreen').style.visibility = "visible";},0)
+            setTimeout(function () {document.getElementById('full').style.visibility = "visible";},0)
+            setTimeout(function () {document.getElementById('button').style.visibility = "visible";},0)
+            setTimeout(function () {document.getElementById('close-button').style.visibility = "visible";},0)
+            setTimeout(function () {document.getElementById('buttons').style.visibility = "visible";},0)
+            setTimeout(function () {document.getElementById('typeWriteDelay').style.visibility = "visible";},0)
         })
     }
 

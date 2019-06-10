@@ -36,6 +36,11 @@ a{
 	/*border-bottom:1px solid #dedede;*/
 }
 
+video {
+  width: 100%;
+  height: auto;
+}
+
 a:focus {
   outline:none;
 }
