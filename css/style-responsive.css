@@ -269,6 +269,11 @@
     width:400px;
   }
 
+
+  div.resume {
+    height: 550px;
+  }
+
 }
 
 @media all and (max-width: 480px) and (min-width: 320px) {
@@ -366,6 +371,10 @@
 
   .grid-hover, li.grid-item, li.grid-item img{
     width:280px;
+  }
+
+  div.two-column iframe {
+    height: 10000px;
   }
 
 
