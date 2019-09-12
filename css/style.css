@@ -556,12 +556,18 @@ li.grid-item{
   font-size:23px;
   bottom:80px;
   left:40px;
+  right:10px;
   position:absolute;
   text-transform:uppercase;
   color:#000000;
   letter-spacing:1px;
   font-weight:900;
   line-height:50px;
+}
+
+.grid-hover-small h1{
+  font-size:18px;
+  line-height:8px;
 }
 
 #hintOfFung {
@@ -577,6 +583,19 @@ li.grid-item{
   letter-spacing:1px;
   font-weight:400;
   line-height:50px;
+}
+
+
+.grid-hover-narrow-ratio-img p {
+  bottom: 80px;
+}
+.grid-hover-narrow-ratio-img h1 {
+  bottom:120px;
+ }
+
+.grid-hover-small h1{
+  font-size:20px;
+  line-height:21px;
 }
 
 li.grid-item img{
